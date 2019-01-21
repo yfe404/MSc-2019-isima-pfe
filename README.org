@@ -1,5 +1,45 @@
 * MSc-2019-isima-pfe
 
+** Plan 
+
+*** Introduction (maximum 2 pages)
+
+- Présentation succinte du contexte (par exemple l’environnement professionnel et l’entreprise)
+- définir le sujet en termes précis et concis
+- objectifs du travail personnel, et les moyens mis en oeuvre pour tenter de les atteindre
+- présentation claire du plan adopté pour la suite du corps du mémoire
+
+
+*** Développement
+
+**** Problématique 
+***** présentation succincte de l’entreprise
+***** détail de l’existant
+***** la mission confiée
+***** résumé de l'état de l'art
+***** cahier des charges
+
+**** Matériels et Méthodes (maximum 1/3 du mémoire)
+
+**** Résultats et Discussion
+Il faut présenter des résultats ayant trait uniquement à la problématique évoquée plus 
+avant. Il est inconcevable d’introduire de nouvelles notions ou une nouvelle problématique à ce stade du mémoire.
+
+
+Après avoir rapporté ses résultats, il est essentiel d’en discuter la valeur. La phase de discussion
+des résultats devrait permettre de répondre aux questions suivantes :
+– Mes résultats sont-ils pertinents ?
+– Quelle en est la portée ?
+– Quelle est leur signification ?
+– Peuvent-ils être utiles à d’autres ?
+
+*** Conclusion
+
+La conclusion résume le travail accompli et fait apparaître clairement si les objectifs ont été atteints. 
+Si des difficultés nouvelles ont été soulevées, il convient d’expliquer pourquoi et
+éventuellement de proposer des remèdes.
+La conclusion peut s’achever sur des perspectives à la suite du travail effectué, ou sur un bilan
+personnel. La taille de la conclusion doit être réduite, une page de texte tout au plus.
 
 * Some useful materials
 ** Emacs
