@@ -1,1 +1,9 @@
 * MSc-2019-isima-pfe
+
+
+* Some useful materials
+** Emacs
+- [[http://orgmode.org/org.html#LaTeX-export][Documentation on LateX Export]]
+** Report
+- [[https://www.insa-strasbourg.fr/fr/cursus-ingenieur-en-topographie-3-2-4/][Rédaction d'un mémoire - Guide INSA Strasboug]]
+- [[http://pbil.univ-lyon1.fr/members/mbailly/Comm_Scientifique/docs/polytechnique_guide_redaction_memoire.pdf][Polytechnique guide redaction mémoire]]
