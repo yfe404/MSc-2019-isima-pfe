@@ -62,3 +62,4 @@ personnel. La taille de la conclusion doit être réduite, une page de texte tou
 ** Report
 - [[https://web.archive.org/web/20170808214832/https://www.insa-strasbourg.fr/fr/cursus-ingenieur-en-topographie-3-2-4/][Rédaction d'un mémoire - Guide INSA Strasboug]]
 - [[http://pbil.univ-lyon1.fr/members/mbailly/Comm_Scientifique/docs/polytechnique_guide_redaction_memoire.pdf][Polytechnique guide redaction mémoire]]
+- ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/15.0/fr/CRISP-DM.pdf
