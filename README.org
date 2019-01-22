@@ -21,6 +21,21 @@
 
 **** Matériels et Méthodes (maximum 1/3 du mémoire)
 
+Rapport CRISP-DM ?
+
+***** Compréhension du problème
+
+***** Compréhension des données
+
+***** Préparation des données 
+
+***** Modélisation
+
+***** Evaluation
+
+***** Déploiement
+
+
 **** Résultats et Discussion
 Il faut présenter des résultats ayant trait uniquement à la problématique évoquée plus 
 avant. Il est inconcevable d’introduire de nouvelles notions ou une nouvelle problématique à ce stade du mémoire.
