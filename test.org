@@ -1,0 +1,19 @@
+#+Title: Rapport Projet de Fin d'Etude
+#+AUTHOR: Yann Feunteun
+#+EMAIL: yannfeunteun@gmail.com
+#+LATEX_CLASS: ISIMA-report
+#+OPTIONS: author:nil date:nil title:nil toc:nil
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \makeglossaries
+
+
+#+BEGIN_EXPORT latex
+\input{frontmatter/coverpage}
+\maketitle
+\copyrightpage
+\abstractpage
+\tableofcontents
+\listoffigures
+\acknowledgments
+\onehalfspacing
+#+END_EXPORT 
